@@ -63,3 +63,5 @@ When a player jumps, their current stored speed is multiplied by `speed-boost` a
 ## License
 
 MIT
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SeuUsuario)
