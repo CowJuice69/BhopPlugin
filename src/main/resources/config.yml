@@ -1,0 +1,11 @@
+bhop:
+  # Multiplier applied to the player's speed on each jump.
+  # Higher values = faster acceleration. Recommended: 1.1 - 1.5
+  speed-boost: 1.28
+
+  # Maximum horizontal speed a player can reach (in blocks/tick).
+  # Vanilla sprint speed is roughly 0.28. Default cap is ~4.5x that.
+  max-speed: 4.5
+
+  # Enable debug logging in console (for development only).
+  debug: false

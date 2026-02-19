@@ -1,0 +1,20 @@
+name: BhopPlugin
+version: 1.0
+main: org.bhop.bhopPlugin.BhopPlugin
+api-version: 1.21
+
+commands:
+  bhopreload:
+    description: Reload the bhop config
+    usage: /bhopreload
+    permission: bhop.reload
+
+permissions:
+  bhop.use:
+    description: Allows using bhop
+    default: false
+  bhop.reload:
+    description: Allows reloading the bhop config
+    default: op
+
+
